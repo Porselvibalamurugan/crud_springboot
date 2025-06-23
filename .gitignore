@@ -1,0 +1,16 @@
+# Maven
+/target/
+*.log
+
+# IDE settings
+*.iml
+.idea/
+*.class
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Sensitive files
+src/main/resources/application.properties
+.env
