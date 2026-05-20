@@ -20,4 +20,4 @@ A simple **CRUD (Create, Read, Update, Delete) Application** built using **Sprin
 
 ## 🎯 Purpose
 
-This project was developed to **learn and practice CRUD operations using Spring Boot**, including API development, database connectivity, and backend architecture.
+This project was developed to **learn and practice CRUD operations using Spring Boot**
