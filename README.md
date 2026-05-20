@@ -1,6 +1,6 @@
 # 📝 CRUD Application
 
-A simple **CRUD (Create, Read, Update, Delete) Application** built using **Spring Boot** .
+A simple **CRUD (Create, Read, Update, Delete) Application** built using **SpringBoot** .
 
 ## ✨ Features
 
